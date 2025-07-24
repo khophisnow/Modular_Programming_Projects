@@ -1,4 +1,3 @@
-
 # 🧠 Modular C++ Programming
 Solutions to modular programming exercises from **Tony Gaddis' _Starting Out with Programming Logic and Design, 3rd Edition_**.
 
@@ -87,3 +86,7 @@ Contributions or feedback are welcome. Open an issue or a pull request if you'd 
 ## 📜 License
 
 For educational use only.
+=======
+# Modular_Programming_Projects
+💡 Modular C++ solutions to programming exercises from "Starting Out with Programming Logic and Design, 3rd Edition" by Tony Gaddis. Includes a menu-driven console interface, Makefile, and modular file structure.
+>>>>>>> 026c713670716bef95db5cfb8ad7a1ba7783cc95

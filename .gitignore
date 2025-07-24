@@ -1,0 +1,36 @@
+# Ignore compiled binaries
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Ignore the final program
+ModularProgram
+
+# Ignore build folders
+/bin/
+/obj/
+
+# Ignore backup and temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Code::Blocks project files (optional)
+*.layout
+*.depend
+*.cbp
+
+# Ignore CMake build files (if used in future)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore VSCode or CLion config folders (if used)
+.vscode/
+.idea/
