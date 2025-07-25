@@ -52,7 +52,7 @@ int main()
             double distanceInKilometers;
             std::cin >> distanceInKilometers;
 
-            double conversionResults = convertKilometerToMeters(distanceInKilometers);
+            double conversionResults = convertKilometerToMiles(distanceInKilometers);
 
             std::cout << distanceInKilometers << "km is " << conversionResults << " miles.\n";
             break;

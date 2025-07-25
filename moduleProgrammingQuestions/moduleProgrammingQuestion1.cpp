@@ -12,7 +12,7 @@ double conversionUnit(){
     double unit  = 0.6214;
     return unit;
 }
-double convertKilometerToMeters(double distanceInKilometers){
+double convertKilometerToMiles(double distanceInKilometers){
     double miles = conversionUnit();
     return distanceInKilometers * miles;
 }
